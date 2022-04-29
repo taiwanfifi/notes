@@ -240,7 +240,7 @@ install package
 > 建立分支 `$ git branch -M main`  
 將檔案推上遠端數據庫 ｜設定一個端節的節點 `$ git remote add origin https://github.com/taiwanfifi/OOOO`
 
-<img src="img/0_git.jpeg" style="width:600px"/>
+<img src="img/1_git.jpeg" style="width:600px"/>
 
 > src  
  [Git與Github-30天學習歷程](https://ithelp.ithome.com.tw/articles/10213796)  
@@ -260,7 +260,7 @@ ssh-keygen [Setting Up SSH Keys for GitHub](https://www.youtube.com/watch?v=8X4u
 `brew install jupyter`
 
 
-<img src="img/0_jupyter_sheet.jpg" style="width:900px"/>
+<img src="img/1_jupyter_sheet.jpg" style="width:900px"/>
 
 - src  https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet
 
@@ -308,16 +308,16 @@ print(f"工作目錄修改後 { os.getcwd() }")
 #### perference
 
 - Power saver
-<img src="img/0_energy.png" style="width:600px"/>
+<img src="img/1_energy.jpg" style="width:600px"/>
 
 - Dragging
-<img src="img/0_drag.png" style="width:600px"/>
+<img src="img/1_drag.jpg" style="width:600px"/>
 
 - Minimize
-<img src="img/0_dock.png" style="width:600px"/>
+<img src="img/1_dock.jpg" style="width:600px"/>
 
 - Hot corner
-<img src="img/0_hot_corner.png" style="width:600px"/>
+<img src="img/1_hot_corner.jpg" style="width:600px"/>
 
 
 

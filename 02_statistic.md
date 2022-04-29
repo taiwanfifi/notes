@@ -109,7 +109,7 @@ $$ s^2 = \frac{1}{n-1}\Sigma^{n}_{i=1}(x_i-\overline{x})^2$$
 
 - 偏態: 偏態的方向描述是極端值方向; 負偏態（左）和正偏態（右）
 
-<img src='img/1_skew.png' style='width:600px' />
+<img src='img/2_skew.jpg' style='width:600px' />
 
 
 >src  
