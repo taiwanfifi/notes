@@ -31,3 +31,16 @@ Build up business eco-system with platform-mindset to empower digital transforma
 - Knowledge and proven experience in Design Thinking or Agile development
 
 
+
+
+Description:   Job Responsibilities
+- Programming Skills: Proficiency in Python is required along with hands-on experience of ML/DL libraries like Numpy, Pandas, scikit-learn, TensorFlow, pytorch, Mathplotlib, etc
+- Good knowledge in statistics and probability distributions
+- Experience in handling image data using python libraries like OpenCV, scikit-image etc
+- Deep understanding on common Machine Learning techniques related to Time series, Regression, Classification, Clustering, etc.(e.g. KNN, SVM, Random Forest, GBM, XGBoost, ARIMA, etc) and their applications
+- Proficiency with at least one deep learning framework such as PyTorch, TensorFlow, Keras, etc.
+- Experience in Optical Character Recognition and Document Digitization problems preferred
+- Working knowledge in deep learning with different NN architectures like CNN, RNN, LSTM, GANs Auto encoders, Transformers, YoLo etc.
+- Should be able to adopt available models from open source domain and implement research papers based on use-case requirements
+- Working experience in end to end data science project life cycles from use case framing, data collection, data exploration, model building, deployment
+- Nice to have understanding of big data related technologies and DevOps (Dockers, Singularity)

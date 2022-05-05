@@ -37,6 +37,10 @@
 #### setup
 [iTerm2 installation](https://ithelp.ithome.com.tw/articles/10213796)
 
+`defaults write com.apple.screencapture type jpg;killall SystemUIServer`
+> [change screenshot file-type](https://free.com.tw/change-macos-screenshot-file-format/)
+
+
 #### shortcut
 > `Ctrl`+`U` 剪下游標 前方所有文字 並複製到暫存剪貼簿  
 `Ctrl`+`K` 剪下游標 後方所有文字 並複製到暫存剪貼簿  
@@ -107,6 +111,11 @@
 ---
 #### ssh
 
+若含有空白建立檔案方式
+`$touch 'my file'`
+`$touch my\ file `
+
+
 ssh -p 222 spock@140.114.XXX.XXX
 scp -P 複製整個資料夾
 scp -P 222 -r spock@140.114.135.53:/home/spock/trading_platform_nthu/server /Users/taiwanfifi/Desktop
@@ -139,6 +148,10 @@ Example: screen -XS 20411 quit
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  ```
 - 若已經安裝過了檢查更新一下，保持最新狀態  
 `brew update`  
+
+
+convert .mov to .mp4  
+`brew install ffmpeg`
 
 
 #### pip 
