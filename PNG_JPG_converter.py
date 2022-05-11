@@ -15,7 +15,7 @@ def png_jpg_converter(fpath):
     path, f = os.path.split(fpath)
     fname, fextension = os.path.splitext(fpath)  
     f_jpg = fname+'.jpg'
-    
+    print(path, f)
     if fextension =='.png':
         
         img_png = Image.open(fpath, mode='r')

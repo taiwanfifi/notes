@@ -158,6 +158,7 @@ convert .mov to .mp4
 `$ pip freeze > requirements.txt`  
 `$ pip -r requirements.txt `
 
+`$pip install opencv-python`
 
 #### node
 Add `node_modules/` or `node_modules` to the `.gitignore` file to ignore all directories called `node_modules` in the current folder and any subfolders like the below image.
